@@ -29,8 +29,8 @@ Also shipped a small [NuGet package](https://github.com/xaekaraca/CustomExceptio
 ### 📊 By the numbers
 
 <p align="center">
-  <img src="https://gh-card.ahmetemre-k.workers.dev/stats.svg?v=2" alt="GitHub stats — private contributions included" height="200" />
-  <img src="https://gh-card.ahmetemre-k.workers.dev/langs.svg?v=2" alt="Languages across all repos including private" height="200" />
+  <img src="https://gh-card.ahmetemre-k.workers.dev/stats.svg?v=4" alt="GitHub stats — private contributions included" height="200" />
+  <img src="https://gh-card.ahmetemre-k.workers.dev/langs.svg?v=4" alt="Languages across all repos including private" height="200" />
 </p>
 <p align="center"><sub>Stats served by a custom Cloudflare Worker — counts <strong>all repositories, including private and organization</strong>.</sub></p>
 
