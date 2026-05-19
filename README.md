@@ -19,9 +19,9 @@
 
 ### 🛠 Stack I lean on
 
-**Backend** — .NET / C# · Go (Fiber) · Python · Clean Architecture · DDD · Event-Driven Design (EDD) · .NET Aspire
-**Frontend** — Next.js · TypeScript · React · Astro
-**Mobile** — Flutter · React Native + Expo
+**Backend** — .NET / C# · Go (Fiber) · Python · Clean Architecture · DDD · Event-Driven Design (EDD) · .NET Aspire<br/>
+**Frontend** — Next.js · TypeScript · React · Astro<br/>
+**Mobile** — Flutter · React Native + Expo<br/>
 **DevOps Stack** — Azure (Cosmos, Blob, Service Bus) · Apache Kafka · Cloudflare Workers · Redis · Keycloak · PostgreSQL
 
 Also shipped a small [NuGet package](https://github.com/xaekaraca/CustomExceptionHandler) for cleaner ASP.NET exception handling.
@@ -29,7 +29,7 @@ Also shipped a small [NuGet package](https://github.com/xaekaraca/CustomExceptio
 ### 📊 By the numbers
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xaekaraca&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=xaekaraca&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xaekaraca&theme=tokyonight" height="180" />
 </p>
 
