@@ -29,9 +29,10 @@ Also shipped a small [NuGet package](https://github.com/xaekaraca/CustomExceptio
 ### 📊 By the numbers
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xaekaraca&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xaekaraca&theme=tokyonight" height="180" />
+  <img src="https://gh-card.ahmetemre-k.workers.dev/stats.svg" alt="GitHub stats — private contributions included" height="200" />
+  <img src="https://gh-card.ahmetemre-k.workers.dev/langs.svg" alt="Languages across all repos including private" height="200" />
 </p>
+<p align="center"><sub>Stats served by a custom Cloudflare Worker — counts <strong>all repositories, including private and organization</strong>.</sub></p>
 
 ### 🤝 Open to
 
